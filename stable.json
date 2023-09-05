@@ -2,11 +2,11 @@
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://repo.andnixsh.com/magisk-v23/magisk-v23-app.apk",
-    "note": "https://repo.andnixsh.com/magisk-v23/readme.md"
+    "link": "https://magisk-lol.vercel.app/app-release.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://repo.andnixsh.com/magisk-v23/magisk-v23-stub.apk"
+    "link": "https://magisk-lol.vercel.app/stub-release.apk"
   }
 }
